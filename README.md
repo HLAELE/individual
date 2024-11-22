@@ -1,2 +1,1 @@
-"# HLAELE-REACT-DATABASE-2-" 
-"# individual" 
+"# My App" 
